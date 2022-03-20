@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "936fc062-73db-4c60-8f04-2894d65b8712",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dove_3": {
+      "ver": "1.0.3",
+      "uuid": "408d88d9-70f6-495e-93ba-7cc81d0aaff3",
+      "rawTextureUuid": "936fc062-73db-4c60-8f04-2894d65b8712",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": -29,
+      "trimX": 1,
+      "trimY": 58,
+      "width": 142,
+      "height": 60,
+      "rawWidth": 150,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
